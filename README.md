@@ -10,12 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px"/>
-  ..I'm Sean
-</h1>
-
 - 💪 Recently completed a 12-week full stack course with _nology
 - 💼 Working as a junior software engineer for Accenture.
 - 📫 How to reach me: seanpursani@gmail.com
