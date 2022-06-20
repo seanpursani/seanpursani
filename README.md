@@ -9,6 +9,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
+<div></div>
 
 - 💪 Recently completed a 12-week full stack course with _nology
 - 💼 Working as a junior software engineer for Accenture.
