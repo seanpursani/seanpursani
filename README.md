@@ -11,10 +11,8 @@
 </div>
 <div></div>
 
-- 💪 Recently completed a 12-week full stack course with _nology
 - 💼 Working as a junior software engineer for Accenture.
 - 📫 How to reach me: seanpursani@gmail.com
-- 🌱 Committed to life-long learning...
 
 ## :hammer_and_wrench: Languages and Tools :
 
