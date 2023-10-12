@@ -11,7 +11,7 @@
 </div>
 <div></div>
 
-- 💼 Working as a junior software engineer for Accenture.
+- 💼 Working as a software engineer for Accenture.
 - 📫 How to reach me: seanpursani@gmail.com
 
 ## :hammer_and_wrench: Languages and Tools :
