@@ -11,7 +11,6 @@
 </div>
 <div></div>
 
-- 💼 Working as a software engineer for Accenture.
 - 📫 How to reach me: seanpursani@gmail.com
 
 ## :hammer_and_wrench: Languages and Tools :
@@ -30,7 +29,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div> 
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seanpursani&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
